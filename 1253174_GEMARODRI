@@ -1,0 +1,9 @@
+{
+  "Id": "1253174",
+  "IdGerrit": "86068",
+  "Files": "horizon/tables/actions.py\t,openstack_dashboard/dashboards/project/instances/tables.py, tox.ini",
+  "CommitParent": "84ca8a9da854da60c3055e412d55f02f893b47ca",
+  "CommitPrevious": "",
+  "Comments": "This is a partial Bug, tje ID of the commit parent is one of the patch but it fails in the Jenkins test, so the bug was fixed in https://review.openstack.org/#/c/91338/, the correct commit is f4594e81998f5d4418926d11cd36a680dd7735e1. But in this case is difficult know which is the part correspondent to the bug report.",
+  "Responsible": "Undecided"
+}
