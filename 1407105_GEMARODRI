@@ -4,7 +4,7 @@
   "Files": "horizon/exceptions.py,horizon/middleware.py",
   "CommitParent": "e69a1c28683e47b8b5443d9877fb637800bad280",
   "CommitPrevious": "3531d7bb,3b24bca0",
-  "Comments": "(horizon/exceptions.py)\n3531d7bb is not responsible, they add and extra argument in the function.\n3b24bca0 is not responsible, they add and extra argument in the function.\n\n",
+  "Comments": "(horizon/exceptions.py)\n3531d7bb is not responsible, they add and extra argument in the function.\n3b24bca0 is not responsible, they add and extra argument in the function, the responsible could be 3531d7bb because in this lines were added some variables and in one of them the developer didn't take into account one value.\n\n",
   "Responsible": "Not_Responsible",
   "Responsability": "Neither"
 }
