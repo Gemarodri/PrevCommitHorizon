@@ -1,9 +1,0 @@
-{
-  "Id": "1418246",
-  "IdGerrit": "222437",
-  "Files": "openstack_dashboard/dashboards/identity/projects/tables.py",
-  "CommitParent": "3a135ee552d8d469340b13eb4c384193c6dcaa4b",
-  "CommitPrevious": "qqqqqqqqqq",
-  "Responsible": "Atleastone",
-  "Comments": "qqqqqqqqqqqq"
-}
