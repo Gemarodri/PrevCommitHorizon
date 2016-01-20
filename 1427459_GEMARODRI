@@ -1,0 +1,9 @@
+{
+  "Id": "1427459",
+  "IdGerrit": "160594",
+  "Files": "openstack_dashboard/api/lbaas.py",
+  "CommitParent": "d6a9cc32e660eb8bf1d309f7ee099e7fb05bf56f",
+  "CommitPrevious": "8c4b0830\n0dde489a\n68d42f0e\n",
+  "Responsible": "Atleastone",
+  "Comments": "8c4b0830 is responsible because forgot check that the list exists\n0dde489a is responsible because forgot check that the list exists\n68d42f0e is not responsible, this current patch delete the line inserted in the commit and added in the current patch"
+}
