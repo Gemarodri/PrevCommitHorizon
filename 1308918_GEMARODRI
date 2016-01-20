@@ -1,0 +1,9 @@
+{
+  "Id": "1308918",
+  "IdGerrit": "88220",
+  "Files": "horizon/middleware.py,openstack_dashboard/settings.py",
+  "CommitParent": "d614789da298b2e7ce3466db2845a5041ab813c0",
+  "CommitPrevious": "953d1b97\n97428427\nda8c69af\n45500b2e\n439c272a\ndc766817\n56d5f53d\n13355dac\n4865cb6a\nafaa7218\n74c2b8ab \n85f4c8b4",
+  "Comments": "(horizon/middleware.py)\n953d1b97 is not responsible, the commit added this import method but in the current commit they decided deleted, although it's works.\n97428427 is not responsible, it only create the def function that in the current commit has changed the name.\nda8c69af is not responsible, the previous commit to this has the same line, this commit only copy the line.\n45500b2e is not responsible it only copy the line with from its previous commit (a6294498).\n439c272a is not responsible, insert blank line\ndc766817  is not responsible, insert blank line\n56d5f53d is not responsible, insert blank line\n13355dac is the responsible it should have done all the verification\n4865cb6a is not responsible\nafaa7218 is not responsible it copy the same line\n74c2b8ab is not responsible\n85f4c8b4 is not responsible the line that this commit touch has been moved to other location in the current commit.\nCould be another responsible but it's so difficult to know for me.",
+  "Responsability": "Atleastone"
+}
