@@ -1,0 +1,9 @@
+{
+  "Id": "1478143",
+  "IdGerrit": "205709",
+  "Files": "openstack_dashboard/api/keystone.py,openstack_dashboard/dashboards/identity/users/forms.py",
+  "CommitParent": "20d4685df9847972337473063091da3972941de3",
+  "CommitPrevious": "0dc91bed,\n12faaa5c,\n87084f7a,\nac5c34d1",
+  "Responsible": "Neither",
+  "Comments": "(openstack_dashboard/api/keystone.py)\n0dc91bed is not responsible the parameter has change the name in the last version\n(openstack_dashboard/dashboards/identity/users/forms.py)\n12faaa5c is not responsible, are a change in the format.\n87084f7a is not responsible are  copied lines.\nac5c34d1  is not responsible are  copied lines.\ncbd63f27  is not responsible are  copied lines.\n3d9372a8  is not responsible are  copied lines.\n"
+}
