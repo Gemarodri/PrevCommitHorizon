@@ -1,0 +1,9 @@
+{
+  "Id": "1378170",
+  "IdGerrit": "186593",
+  "Files": "openstack_dashboard/api/nova.py",
+  "CommitParent": "966bc9dfbfabfa98f3eb99714f0da7d346e934ff",
+  "CommitPrevious": "588c7820",
+  "Responsible": "Not_Responsible",
+  "Comments": "588c7820 is not responsible, it's a return function in which they didn't return the protocol because because it was listened. But the function return works fine."
+}
