@@ -5,5 +5,5 @@
   "CommitParent": "f6aae369f92fc7d7e4be61e4d8cf761612292962",
   "CommitPrevious": "cf75d04a\n06e11327",
   "Comments": "(openstack_dashboard/dashboards/admin/instances/forms.py)\ncf75d04a is responsible\n06e11327 is not responsible, this commit fixed a bug in the previous commit cf75d04a , which have been into account a wrong if condition\n(openstack_dashboard/dashboards/admin/instances/views.py,) it only are added lines, nobody is responsible.\n",
-  "Responsability": "Atleastone"
+  "Responsible": "Atleastone"
 }

@@ -5,5 +5,5 @@
   "CommitParent": "354c0c1baaaf942e4a0f1f5409f9e0edb8cd2712",
   "CommitPrevious": "52957cc7 ",
   "Comments": "(openstack_dashboard/api/swift.py)\n52957cc7  is not responsible, it only change \"it's\" to \"it is\" in the error message\nAlso, they added a verification in the API to delete the folders\n",
-  "Responsability": "Neither"
+  "Responsible": "Not_Responsible"
 }
