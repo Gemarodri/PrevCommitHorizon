@@ -3,7 +3,7 @@
   "IdGerrit": "17845",
   "Files": "openstack_dashboard/api/swift.py,openstack_dashboard/dashboards/admin/networks/forms.py,\nopenstack_dashboard/dashboards/project/containers/forms.py,openstack_dashboard/dashboards/project/containers/tables.py,openstack_dashboard/dashboards/project/containers/views.py",
   "CommitParent": "648c8a582be274e400125b74b9572c2aebbab18a",
-  "CommitPrevious": "ab35449e\n801c2321\n97428427\n05cf9004\n59e862e4\n801c2321\n89d3d11c\ndf5a13c5",
+  "CommitPrevious": "ab35449e\n801c2321\n97428427\n05cf9004\n59e862e4\n89d3d11c\ndf5a13c5",
   "Comments": "(openstack_dashboard/api/swift.py)\nab35449e is responsible\n801c2321 is not responsible only change a comment.\n97428427 is not responsible because it's a blank line.\n(openstack_dashboard/dashboards/admin/networks/forms.py)\n05cf9004 it's not responsible, it delete a blank space in the beginning of the function definition.\n(openstack_dashboard/dashboards/project/containers/forms.py)\n59e862e4 is responsible because in this commit the variable path was inserted and this variable presents a failure.\n801c2321 is not responsible, because it is based on the logic about variable path written in the 59e862e4 commit.\n(openstack_dashboard/dashboards/project/containers/tables.py)\n801c2321 is responsible because the if condition was not correct.\n89d3d11c is not responsible because the modification is a blank space before the return value.\n(openstack_dashboard/dashboards/project/containers/views.py)\ndf5a13c5 is not responsible",
   "Responsible": "Atleastone"
 }
