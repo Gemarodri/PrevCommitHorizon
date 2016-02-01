@@ -5,6 +5,5 @@
   "CommitParent": "4dcb0c0cd43200146b00b15abf9d0b892102ee7c",
   "CommitPrevious": "9620cbac",
   "Comments": "(openstack_dashboard/dashboards/identity/users/forms.py)\nIt's not responsible, because this commit copy the lines that were added by e90886aa, and in this lines is where the bug was in the if condition that forgot one check. Furthermore, the previous commit to e90886aa (d4d81459 horizon/dashboards/syspanel/users/forms.py  ) have the correct if condition, so the responsible is  e90886aa",
-  "Responsible": "Not_Responsible",
-  "Responsability": "Neither"
+  "Responsible": "Not_Responsible"
 }

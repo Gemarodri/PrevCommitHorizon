@@ -5,6 +5,5 @@
   "CommitParent": "f0e1e3bdb3d66d8849f5be44cbd2cfa606109930",
   "CommitPrevious": "38ba3df8",
   "Comments": "(openstack_dashboard/dashboards/project/instances/workflows/create_instance.py) \n38ba3df8 its responsible",
-  "Responsible": "Responsible",
-  "Responsability": "All"
+  "Responsible": "Responsible"
 }
